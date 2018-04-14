@@ -34,5 +34,5 @@
 [Подробнее по ссылке.](https://webref.ru/layout/font-awesome)
 - `jquery.waypoints.min.js` - это библиотека, которая значительно упрощает выполнение функции каждый раз ,когда мы переходим к элементу с помощью скроллинга, т.е. мы можем показывать любой элемент при нахождении посетителя в заданной точке страницы.
 Пример использования:
-   * [Codepen](https://codepen.io/0neLife/pen/EErRBb) 
+   * [CodePen](https://codepen.io/0neLife/pen/EErRBb) 
    * [GitHub](https://github.com/0neLife/Navigation-highlighting-using-library-Waypoints)
